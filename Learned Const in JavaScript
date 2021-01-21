@@ -1,0 +1,11 @@
+//Learned how to use "Constant"
+const Hamburger = 'Cheeseburger'
+console.log(Hamburger)
+const Big_Mac = 'Whopper'
+console.log(Big_Mac)
+//When ran, the console says Cheeseburger and Whopper
+
+//Also, if you try to change what the const equals, the console will spit out errors lol
+//Adding "Hamburger = 'Fries'" will spit out this error "error: Uncaught TypeError: Assignment to constant variable."
+
+//I also learned to how to comment using double slashes
