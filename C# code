@@ -1,0 +1,20 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		//I learned a little bit of C#...
+		//I'm pretty sure this will be what I learn
+		string charName = "BOB";
+		string charName2 = "DANNY BOY";
+		int friesatstart;
+		friesatstart = 348;
+		Console.WriteLine( charName + " has " + friesatstart + " fries");
+		Console.WriteLine( charName2 + " has 0 fries");
+		Console.WriteLine( charName + " gives " + charName2 + " 6 fries");
+		Console.WriteLine( charName + " now has 1 fry");
+		Console.WriteLine("HOW DOES " + charName + " ONLY HAVE 1 FRY?!?!");
+		Console.WriteLine("NO ONE KNOWS!!!!!!!!");
+	}
+}
