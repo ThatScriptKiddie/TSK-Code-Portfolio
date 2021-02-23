@@ -1,0 +1,8 @@
+My Zelda style dungeon crawler has finally reached its alpha stage. The game isn't very big (think the first Zelda) but the graphics are pretty (think Link to Past)
+It was a lot harder than I thought and there are probably tons of bugs and glitches, so I am going to send it to some friend for testing.
+As for the content, I need to tweak the main quest line and add new items and side quests. A few more dungeons would also be nice.
+The code itself is kinda weird and I might need to redo most of it. I started using Python about 3/4 of the way through and I found out I like it better than JS.
+So unless the game runs smoothly, I will have to replace all of the JS with Python, but I will hold off untill I try C# since it's Unity's prefered language.
+Lastly, I might just learn C++ and start using Unreal 4. The main reason being I like it better than Unity.
+
+Well, that's all for now. As always I will notify everyone of my progress. Byeeeeee ^^
